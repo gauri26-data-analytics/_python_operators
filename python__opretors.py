@@ -1,4 +1,4 @@
-
+#arthmatic operators
 a = 15
 b = 4
 print("Addition:", a + b)  
@@ -16,6 +16,7 @@ u=99
 i=15
 k=88
 print("ans=",x+d-e*u/i**k%x//e)
+
 
 
 
