@@ -1,0 +1,5 @@
+a=(10>9)
+b=(10<9)
+print(a and b)
+print(a or b)
+print( not b)
